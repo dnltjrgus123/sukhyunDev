@@ -5,44 +5,44 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/lxYgA-4EnltzpZVxRgw0l/_buildManifest.js",
-    "static/lxYgA-4EnltzpZVxRgw0l/_ssgManifest.js"
+    "static/ppq4yI0-aRLSHnRJRK4By/_buildManifest.js",
+    "static/ppq4yI0-aRLSHnRJRK4By/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
     "/": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
-      "static/chunks/pages/index-a5abf5362a70433a.js"
+      "static/chunks/pages/index-724a69774dd94fac.js"
     ],
     "/_app": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
       "static/chunks/pages/_app-c6e8ddb3b0788b8c.js"
     ],
     "/_error": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
       "static/chunks/pages/_error-cf5db1610f7a1281.js"
     ],
     "/items/[id]": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
       "static/chunks/pages/items/[id]-36fda3411745504c.js"
     ],
     "/profile": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
       "static/chunks/pages/profile-44bdd6107b1c262f.js"
     ],
     "/sell": [
-      "static/chunks/webpack-52d6a1bd3416ab52.js",
+      "static/chunks/webpack-c7cd714f684b9e40.js",
       "static/chunks/framework-292291387d6b2e39.js",
       "static/chunks/main-8b4849c203f6ddc2.js",
       "static/chunks/pages/sell-5cf22a14cefbe274.js"
