@@ -7,9 +7,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongodb": "^6.20.0",
+    "mongoose": "latest",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "mongoose": "latest"
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "24.8.1",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
   }
 }
