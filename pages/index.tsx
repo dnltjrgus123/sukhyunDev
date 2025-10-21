@@ -41,10 +41,10 @@ export default function Home() {
 
       {/* 상단 버튼 */}
       <div className="flex gap-4 mb-10">
-        <Link href="/sellpost" className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600">
+        <Link href="/sale" className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600">
           판매 게시글
         </Link>
-        <Link href="/buypost" className="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600">
+        <Link href="/purchase" className="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600">
           구매 게시글
         </Link>
         <Link href="/login" className="bg-gray-500 text-white px-6 py-3 rounded-lg hover:bg-gray-600">
