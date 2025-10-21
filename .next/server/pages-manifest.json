@@ -1,11 +1,14 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/api/items": "pages/api/items.js",
+  "/api/login": "pages/api/login.js",
+  "/api/posts": "pages/api/posts.js",
+  "/api/signup": "pages/api/signup.js",
   "/": "pages/index.html",
-  "/items/[id]": "pages/items/[id].html",
-  "/profile": "pages/profile.html",
-  "/sell": "pages/sell.html",
+  "/login": "pages/login.html",
+  "/purchase": "pages/purchase.html",
+  "/sale": "pages/sale.html",
+  "/signup": "pages/signup.html",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }

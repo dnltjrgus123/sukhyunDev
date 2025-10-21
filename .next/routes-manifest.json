@@ -18,16 +18,7 @@
     "afterFiles": [],
     "fallback": []
   },
-  "dynamicRoutes": [
-    {
-      "page": "/items/[id]",
-      "regex": "^/items/([^/]+?)(?:/)?$",
-      "routeKeys": {
-        "nxtPid": "nxtPid"
-      },
-      "namedRegex": "^/items/(?<nxtPid>[^/]+?)(?:/)?$"
-    }
-  ],
+  "dynamicRoutes": [],
   "staticRoutes": [
     {
       "page": "/",
@@ -36,16 +27,28 @@
       "namedRegex": "^/(?:/)?$"
     },
     {
-      "page": "/profile",
-      "regex": "^/profile(?:/)?$",
+      "page": "/login",
+      "regex": "^/login(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/profile(?:/)?$"
+      "namedRegex": "^/login(?:/)?$"
     },
     {
-      "page": "/sell",
-      "regex": "^/sell(?:/)?$",
+      "page": "/purchase",
+      "regex": "^/purchase(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/sell(?:/)?$"
+      "namedRegex": "^/purchase(?:/)?$"
+    },
+    {
+      "page": "/sale",
+      "regex": "^/sale(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sale(?:/)?$"
+    },
+    {
+      "page": "/signup",
+      "regex": "^/signup(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/signup(?:/)?$"
     }
   ],
   "dataRoutes": [],
